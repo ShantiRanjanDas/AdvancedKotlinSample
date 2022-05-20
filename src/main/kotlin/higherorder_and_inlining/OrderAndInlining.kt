@@ -1,4 +1,4 @@
-package inline_classes
+package higherorder_and_inlining
 
 /**
  * An inline function is declare with a keyword inline. The use of inline function enhances the performance of higher order function. The inline function tells the compiler to copy parameters and functions to the call site*/
